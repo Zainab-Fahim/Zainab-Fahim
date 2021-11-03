@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zainab-Fahim.Zainab-Fahim">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Zainab+Fahim+here...;Nice+to+meet+you+😄!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Zainab+Fahim+here+btw...;Nice+to+meet+you+😄!&center=true&size=30">
   </a>
 </h1>
 
@@ -13,8 +13,8 @@
 - 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Writing and poetry as side hustles.
 
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
+<br>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
