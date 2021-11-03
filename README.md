@@ -74,4 +74,3 @@
 <a href="mailto:shafna.zainab.fahim.gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shafna.zainab.fahim.gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 ⭐️ From [Zainab-Fahim](https://github.com/Zainab-Fahim)
-<hr>
