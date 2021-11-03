@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-<h2 align="center">👩‍💻 Know me better 👩‍💻</h2>
+<h2 align="center">👩‍💻 &nbsp; Know me better 👩‍💻</h2>
 <br>
 <div align="left">
 - 🇱🇰  &nbsp; I'm a Sri Lankan born.
