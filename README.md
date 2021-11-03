@@ -69,8 +69,5 @@
 <a href="https://www.twitter.com/zainabfahim9/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zainabfahim9-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:shafna.zainab.fahim.gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shafna.zainab.fahim.gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-<br/>
-<hr>
 ⭐️ From [Zainab-Fahim](https://github.com/Zainab-Fahim)
 <hr>
