@@ -4,19 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Zainab+Fahim+here...;Nice+to+meet+you+😄!&center=true&size=30">
   </a>
 </h1>
-<h3> 👩‍💻 &nbsp;About Me </h3>
+
+<h2 align="center">👩‍💻 This is me! 👩‍💻</h2>
+<br>
 
 - 🤔 &nbsp; Exploring new technologies and trying to make a difference in my world.
 - 🎓 &nbsp; Computer Scie.nce Undergraduate at IIT (Sri Lanka), with affliate to the University of Westminster.
 - 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Writing and poetry as hobbies/side hustles.
-
-<h3> 👩‍💻 &nbsp;About Me </h3>
-- 🇱🇰  &nbsp; I'm a Sri Lankan born.
-- 🤔 &nbsp; Exploring new technologies and trying to make a difference in my world.
-- 🎓 &nbsp; Computer Science Undergraduate at IIT (Sri Lanka), in affliation to the University of Westminster.
-- 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Writing and poetry as side hustles.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
