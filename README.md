@@ -1,6 +1,15 @@
 ### Hi there 👋
+<h2> Hey there! I'm Zainab.</h2>
 
+<br/>
+<h3> 👩‍💻 &nbsp;About Me </h3>
 
+- 🤔 &nbsp; Exploring new technologies and trying to make a difference in my world.
+- 🎓 &nbsp; Computer Scie.nce Undergraduate at IIT (Sri Lanka), with affliate to the University of Westminster.
+- 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
+- ✍️ &nbsp; Pursuing Writing and poetry as hobbies/side hustles.
+
+<hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -21,13 +30,38 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
-  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=GIMP)  
+  ![GIMP](https://img.shields.io/badge/-GIMP-333333?style=flat&logo=GIMP)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
-
-![Zainab's github stats](https://github-readme-stats.vercel.app/api?username=Zainab-Fahim&show_icons=true&theme=dark)
-
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+  <div>
+        <div>    
+            <a href="https://github.com/Zainab-Fahim/github-readme-streak-stats" title="Go to Source">
+            <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Fahim&theme=react&border=61dafb&hide_border=true" alt="Zainab-Fahim" />
+            </a>
+        </div>
+        <div>
+            <a href="https://github.com/Zainab-Fahim/github-readme-stats" title="Go to Source">
+            <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Zainab-Fahim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+            </a>
+        </div>
+  </div>
+  <br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/Zainab-Fahim/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Fahim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Zainab-Fahim&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+<br>
+<hr>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -37,6 +71,7 @@
 </p>
 
 <br/>
-
+<hr>
 ⭐️ From [Zainab-Fahim](https://github.com/Zainab-Fahim)
-
+<hr>
+<hr>
