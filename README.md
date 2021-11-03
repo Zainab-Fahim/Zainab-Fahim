@@ -7,12 +7,13 @@
 
 <h2 align="center">👩‍💻 Know me better 👩‍💻</h2>
 <br>
+<div align="left">
 - 🇱🇰  &nbsp; I'm a Sri Lankan born.
 - 🤔 &nbsp; Exploring new technologies and trying to make a difference in my world.
 - 🎓 &nbsp; Computer Science Undergraduate at IIT (Sri Lanka), in affliation to the University of Westminster.
 - 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Writing and poetry as side hustles.
-
+</div>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
