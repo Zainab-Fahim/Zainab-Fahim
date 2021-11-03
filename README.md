@@ -4,8 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Zainab+Fahim+here...;Nice+to+meet+you+😄!&center=true&size=30">
   </a>
 </h1>
-<br/>
-<h3> 👩‍💻 &nbsp;About Me </h3>
+
+<h2 align="center">👩‍💻 Get to know me 👩‍💻</h2>
+<br>
 
 - 🤔 &nbsp; Exploring new technologies and trying to make a difference in my world.
 - 🎓 &nbsp; Computer Scie.nce Undergraduate at IIT (Sri Lanka), with affliate to the University of Westminster.
@@ -65,8 +66,9 @@
 </p>
 <br>
 <hr>
-<br/>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<h2 align="center">🤝🏻 Let's Connect 🤝🏻</h2>
+<br>
 
 <p align="center">
 <a href="https://www.twitter.com/zainabfahim9/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zainabfahim9-blue?style=flat-square&logo=twitter"></a>
