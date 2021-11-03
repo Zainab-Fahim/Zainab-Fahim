@@ -1,9 +1,7 @@
 ### Hi there 👋
-<br>
+![Zainab's github stats](https://github-readme-stats.vercel.app/api?username=Zainab-Fahim&show_icons=true&theme=dark)
 
-![Zainab's github stats](https://github-readme-stats.vercel.app/api?username=Zainab-Fahim&show_icons=true&hide_border=true)
-
-<br>
+⭐️ From [AkhilGKrishnan](https://github.com/AkhilGKrishnan)
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px">
