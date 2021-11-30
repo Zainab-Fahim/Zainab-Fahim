@@ -8,7 +8,7 @@
 <h2 align="center">👩‍💻 This is me! 👩‍💻</h2>
 <br>
 
-- 🤔 &nbsp; Exploring new technologies and trying to make a difference in my world.
+- 🌏 &nbsp; Exploring new technologies and trying to make a difference in my world.
 - 🎓 &nbsp; Computer Science Undergraduate at IIT (Sri Lanka), in affiliation with the University of Westminster.
 - 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Writing and poetry as side hustles.
