@@ -72,7 +72,7 @@
 
 <p align="center">
 <a href="https://www.twitter.com/zainabfahim9/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-zainabfahim9-blue?style=flat-square&logo=twitter"></a>
-<a href="https://hashnode.com/@Zainab-Fahim"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-Zainab-Fahim-blue?style=flat-square&logo=hashnode"></a>
+<a href="https://hashnode.com/@Zainab-Fahim"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 <a href="mailto:shafna.zainab.fahim.gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shafna.zainab.fahim.gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 ⭐️ From [Zainab-Fahim](https://github.com/Zainab-Fahim)
