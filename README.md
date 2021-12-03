@@ -11,7 +11,7 @@
 - 🌏 &nbsp; Exploring new technologies and trying to make a difference in my world.
 - 🎓 &nbsp; Computer Science Undergraduate at IIT (Sri Lanka), in affiliation with the University of Westminster.
 - 🌱 &nbsp; Learning more about Data Science, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Writing and poetry as side hustles.
+- ✍️ &nbsp; Pursuing writing and poetry as side hustles.
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <br>
