@@ -47,19 +47,19 @@
   <div>
         <div>    
             <a href="https://github.com/Zainab-Fahim/github-readme-streak-stats" title="Go to Source">
-            <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Fahim&theme=react&border=23F87900&hide_border=true" alt="Zainab-Fahim" />
+            <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Fahim&theme=react&border=61dafb&hide_border=true" alt="Zainab-Fahim" />
             </a>
         </div>
         <div>
             <a href="https://github.com/Zainab-Fahim/github-readme-stats" title="Go to Source">
-            <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Zainab-Fahim&show_icons=true&theme=react&border_color=23F87900&hide_border=true" />
+            <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Zainab-Fahim&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
             </a>
         </div>
   </div>
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Zainab-Fahim/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Fahim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=23F87900&text_color=ffffff&icon_color=23F87900&bg_color=20232a&langs_count=8&layout=compact&border_color=2387900&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zainab-Fahim&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br>
