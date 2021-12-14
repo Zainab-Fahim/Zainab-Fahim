@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zainab-Fahim.Zainab-Fahim">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;Zainab+here+btw...;Nice+to+meet+you+😄!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F87900&center=true&vCenter=true&lines=Hi,+There!+👋;Zainab+here+btw...;Nice+to+meet+you+😄!">
   </a>
 </h1>
 
