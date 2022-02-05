@@ -39,12 +39,16 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
+  <!---
 <hr>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
   <div>
+  
+
+
         <div>    
             <a href="https://github.com/Zainab-Fahim/github-readme-streak-stats" title="Go to Source">
             <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Zainab-Fahim&theme=react&border=61dafb&hide_border=true" alt="Zainab-Fahim" />
@@ -56,6 +60,7 @@
             </a>
         </div>
   </div>
+
   <br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/Zainab-Fahim/github-readme-stats">
@@ -67,7 +72,7 @@
 </p>
 <br>
 <hr>
-
+-->
 <h2 align="center">🤝🏻 Let's Connect 🤝🏻</h2>
 <br>
 
